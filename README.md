@@ -1,28 +1,17 @@
-# # Traduttore di Dialetti Italiani
 # Italian Dialect Translator
 
 ## Summary
-This project is an AI-based tool designed to translate various Italian dialects into standard Italian. 
-It aims to preserve regional linguistic heritage using [inserisci qui la tecnica che usi, es. simple mapping or NLP].
+This project is an AI-based tool designed to translate various Italian dialects into standard Italian. It aims to preserve regional linguistic heritage and help people understand local expressions through a digital translator.
 
 ## Background
-... resto del tuo testo ...
+* Which problem does your idea solve? How common or important is this problem?
+* What is your personal motivation?
+* Why is this topic important or interesting?
 
-### L'idea in sintesi
-Un'applicazione mobile basata sull'intelligenza artificiale progettata per tradurre vari dialetti italiani in italiano standard (e viceversa) in tempo reale.
+The main problem is the language barrier between generations and regions in Italy. Many dialects are disappearing, and this tool helps maintain the cultural identity of different Italian regions.
 
-### Contesto
-L'Italia conta centinaia di dialetti, ma le nuove generazioni li stanno perdendo. Questo progetto mira a preservare il patrimonio culturale e ad aiutare gli anziani a comunicare con i giovani o con i turisti.
+## Data and AI methods
+I plan to use a dataset of dialectal words and phrases paired with their Italian equivalents. For the AI part, I will start with a simple dictionary lookup and then move towards a more advanced Natural Language Processing (NLP) approach.
 
-### Dati e tecniche di IA
-* **Dati:** Dataset testuali e vocali di dialetti regionali (Napoletano, Siciliano, Veneto, ecc.).
-* **Tecniche:** Riconoscimento vocale (Speech-to-Text) e Traduzione Automatica Neurale (NMT).
-
-### Modalità d'uso
-Nella vita quotidiana, durante i viaggi o negli uffici pubblici.
-
-### Sfide
-Catturare i modi di dire locali e gestire dialetti che non hanno una forma scritta standardizzata.
-
-### Ringraziamenti
-Ispirato al corso "Elements of AI".
+## Goals
+The goal is to create a functional prototype that can recognize and translate basic sentences from at least one or two specific Italian dialects (like Romanesco or Neapolitan) into standard Italian.
