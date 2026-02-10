@@ -1,23 +1,20 @@
-# Italian Dialect Translator
+# # Traduttore di Dialetti Italiani
 
-### Your idea in a nutshell
-An AI-powered mobile application designed to translate various Italian dialects into standard Italian (and vice versa) in real-time.
+### L'idea in sintesi
+Un'applicazione mobile basata sull'intelligenza artificiale progettata per tradurre vari dialetti italiani in italiano standard (e viceversa) in tempo reale.
 
-### Background
-Italy has hundreds of dialects, but younger generations are losing them. This project aims to preserve cultural heritage and help elderly people communicate with younger generations or tourists.
+### Contesto
+L'Italia conta centinaia di dialetti, ma le nuove generazioni li stanno perdendo. Questo progetto mira a preservare il patrimonio culturale e ad aiutare gli anziani a comunicare con i giovani o con i turisti.
 
-### Data and AI techniques
-* Data: Speech and text datasets in regional dialects (Neapolitan, Sicilian, etc.).
-* Techniques: Speech-to-Text and Neural Machine Translation (NMT).
+### Dati e tecniche di IA
+* **Dati:** Dataset testuali e vocali di dialetti regionali (Napoletano, Siciliano, Veneto, ecc.).
+* **Tecniche:** Riconoscimento vocale (Speech-to-Text) e Traduzione Automatica Neurale (NMT).
 
-### How is it used
-In daily life, travels, or public offices. It helps preserve the local identity while ensuring everyone understands each other.
+### Modalità d'uso
+Nella vita quotidiana, durante i viaggi o negli uffici pubblici.
 
-### Challenges
-Capturing local idioms and managing dialects that don't have a standardized written form.
+### Sfide
+Catturare i modi di dire locali e gestire dialetti che non hanno una forma scritta standardizzata.
 
-### What next
-Expanding to include voice lessons to help people learn how to speak the dialects correctly.
-
-### Acknowledgments
-Inspired by the "Elements of AI" course.
+### Ringraziamenti
+Ispirato al corso "Elements of AI".
