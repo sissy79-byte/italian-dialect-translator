@@ -1,4 +1,12 @@
 # # Traduttore di Dialetti Italiani
+# Italian Dialect Translator
+
+## Summary
+This project is an AI-based tool designed to translate various Italian dialects into standard Italian. 
+It aims to preserve regional linguistic heritage using [inserisci qui la tecnica che usi, es. simple mapping or NLP].
+
+## Background
+... resto del tuo testo ...
 
 ### L'idea in sintesi
 Un'applicazione mobile basata sull'intelligenza artificiale progettata per tradurre vari dialetti italiani in italiano standard (e viceversa) in tempo reale.
